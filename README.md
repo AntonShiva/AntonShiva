@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
-<div id="header" align="center" >
- 
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=50&pause=1000&multiline=true&repeat=false&random=false&width=800&height=70&lines=Hello%2C+I'am+Antony+.+IOS+Developer+.)](https://git.io/typing-svg)
+
+
+<div id="header" align="center" >
 
 <p align="center">
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg"/>
