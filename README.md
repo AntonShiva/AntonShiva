@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1000&height=45&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+practice.)](https://git.io/typing-svg)
 <div id="header" align="center" >
-<p align="right">
+<p align="centr">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShiva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg"/>
 </p>
 
