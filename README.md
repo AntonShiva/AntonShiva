@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=51&duration=3000&pause=1000000000000000&vCenter=true&multiline=true&repeat=false&random=false&width=840&height=80&lines=Hello%2C+I'am+Antony+-+IOS+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=51&duration=3000&pause=1000000000000000&color=66DD64FF&vCenter=true&multiline=true&repeat=false&random=false&width=840&height=80&lines=Hello%2C+I'am+Antony+-+IOS+Developer.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1000&height=45&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+practice.)](https://git.io/typing-svg)
