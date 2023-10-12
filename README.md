@@ -1,19 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=false&multiline=true&repeat=true&random=false&width=840&height=60&lines=Hello%2C+I'am+Antony+-+IOS+Developer.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+spiritual+practicese.)](https://git.io/typing-svg)
-<div id="header" align="center" >
-<p align="centr">
+----
 
-<div id="badges">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-<img src="https://sun6-22.userapi.com/d6v3gIboMY-_ZIphQApt6OALObnP_yQ_BgHgZA/zifvEgVuCxg.jpg)"  width="65"/>  
-<img src="https://apparchet.files.wordpress.com/2020/09/images.jpeg" width="70" />
-<img src="https://img.shields.io/badge/UIKit-A9A9A9?style=for-the-badge&logo=uikit&logoColor=00BFFF"/> 
-<img src="https://img.shields.io/badge/iOS-A9A9A9?style=for-the-badge&logo=ios&logoColor=000000"/>
-</div>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+spiritual+practicese.)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
