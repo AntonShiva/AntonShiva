@@ -1,18 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=51&duration=3000&pause=1000000000000000&color=72F770FF&vCenter=true&multiline=true&repeat=false&random=false&width=840&height=80&lines=Hello%2C+I'am+Antony+-+IOS+Developer.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+spiritual+practicese.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=45&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=true&multiline=true&repeat=true&random=false&width=840&height=70&lines=Hello%2C+I'am+Antony+-+IOS+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+spiritual+practicese.)](https://git.io/typing-svg)
 <div id="header" align="center" >
 <p align="centr">
- 
-
- <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg"/>
-</p>
-
-  
-
 
 <div id="badges">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
