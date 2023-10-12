@@ -5,8 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1150&height=45&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=25&duration=3000&pause=1000000000000000&color=9C89DD&vCenter=true&multiline=true&random=false&width=1000&height=45&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+practice.)](https://git.io/typing-svg)
 <div id="header" align="center" >
-
-<p align="center">
+<p align="right">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShiva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg"/>
 </p>
 
@@ -21,10 +22,6 @@
 <img src="https://img.shields.io/badge/iOS-A9A9A9?style=for-the-badge&logo=ios&logoColor=000000"/>
 </div>
 </div>
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonShiva&theme=buefy-dark&exclude_days=Sun)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonShiva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
