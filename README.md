@@ -4,7 +4,7 @@
 ----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=I+like+to+create+useful+programs+for+iphone.+I+am+also+interested+in+developing+for+Apple+Vision+Pro.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=In+addition+to+development%2C+I+practice+and+teach+yoga%2C+meditation%2C+and+spiritual+practicese.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=In+addition+to+development%2C+I+practice+and+teach+yoga+and+meditation.)](https://git.io/typing-svg)
 ### 🤝 Social network:
 
   <div id="badges">
