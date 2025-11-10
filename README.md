@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=false&multiline=true&repeat=true&random=false&width=840&height=60&lines=Hello%2C+I'am+Antony+-+Software+Engineer+(iOS).)](https://git.io/typing-svg)
 ----
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=I+like+to+create+useful+programs+for+iphone.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=In+addition+to+development%2C+I+practice+and+teach+yoga+and+meditation.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=18&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=Experienced+iOS+developer+building+scalable,+performant+apps+with+Swift+and+SwiftUI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=18&duration=3000&pause=1000000000000000&color=E5D8FFFF&vCenter=true&multiline=true&random=false&width=1150&height=35&lines=Focused+on+delivering+business+value+through+clean+architecture,+modern+techniques+and+efficient+code.)](https://git.io/typing-svg)
 
 ### 🛠 Tech Stack
 
