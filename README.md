@@ -10,29 +10,29 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/Combine-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Combine"/>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
-  <img src="https://img.shields.io/badge/CoreData-4B4B4B?style=for-the-badge&logo=database&logoColor=white" alt="CoreData"/>
-  <img src="https://img.shields.io/badge/SwiftData-6E6E6E?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Async%2FAwait-2E8B57?style=for-the-badge&logo=swift&logoColor=white" alt="Async Await"/>
-  <img src="https://img.shields.io/badge/Multithreading-00599C?style=for-the-badge&logo=apple&logoColor=white" alt="Multithreading"/>
-  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/MVVM-5C2D91?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/MVC-0096FF?style=for-the-badge&logo=architecture&logoColor=white" alt="MVC"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-3C3C3C?style=for-the-badge&logo=apple&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/Unit%20Testing-4B8BBE?style=for-the-badge&logo=pytest&logoColor=white" alt="Unit Testing"/>
-  <img src="https://img.shields.io/badge/Dependency%20Injection-7952B3?style=for-the-badge&logo=swift&logoColor=white" alt="Dependency Injection"/>
-  <img src="https://img.shields.io/badge/StoreKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="StoreKit"/>
-  <img src="https://img.shields.io/badge/AVFoundation-000000?style=for-the-badge&logo=apple&logoColor=white" alt="AVFoundation"/>
-  <img src="https://img.shields.io/badge/WebKit-0078D7?style=for-the-badge&logo=safari&logoColor=white" alt="WebKit"/>
-  <img src="https://img.shields.io/badge/JSON%20API-2E8B57?style=for-the-badge&logo=json&logoColor=white" alt="JSON API"/>
-  <img src="https://img.shields.io/badge/Protocol--Oriented%20Design-555555?style=for-the-badge&logo=swift&logoColor=white" alt="Protocol-Oriented Design"/>
-  <img src="https://img.shields.io/badge/SwiftUI%20Animations-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI Animations"/>
+  <img src="https://img.shields.io/badge/Swift-%20?style=flat-square&logo=swift&logoColor=F05138&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-%20?style=flat-square&logo=swift&logoColor=0D96F6&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Combine-%20?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Combine"/>
+  <img src="https://img.shields.io/badge/UIKit-%20?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/Core%20Data-%20?style=flat-square&logo=database&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Core Data"/>
+  <img src="https://img.shields.io/badge/Swift%20Data-%20?style=flat-square&logo=swift&logoColor=F05138&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Swift Data"/>
+  <img src="https://img.shields.io/badge/REST%20API-%20?style=flat-square&logo=postman&logoColor=EF5B25&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Firebase-%20?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-%20?style=flat-square&logo=git&logoColor=F05032&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Git"/>
+  <img src="https://img.shields.io/badge/Async%20%2F%20Await-%20?style=flat-square&logo=swift&logoColor=0D96F6&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Async / Await"/>
+  <img src="https://img.shields.io/badge/Multithreading-%20?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Multithreading"/>
+  <img src="https://img.shields.io/badge/SOLID-%20?style=flat-square&logo=codeforces&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/MVVM-%20?style=flat-square&logo=diagramproject&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/MVC-%20?style=flat-square&logo=diagramproject&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="MVC"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%20?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Unit%20Testing-%20?style=flat-square&logo=pytest&logoColor=3776AB&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Unit Testing"/>
+  <img src="https://img.shields.io/badge/Dependency%20Injection-%20?style=flat-square&logo=swift&logoColor=F05138&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Dependency Injection"/>
+  <img src="https://img.shields.io/badge/Store%20Kit-%20?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Store Kit"/>
+  <img src="https://img.shields.io/badge/AVFoundation-%20?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="AVFoundation"/>
+  <img src="https://img.shields.io/badge/WebKit-%20?style=flat-square&logo=safari&logoColor=0A84FF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="WebKit"/>
+  <img src="https://img.shields.io/badge/JSON%20API-%20?style=flat-square&logo=json&logoColor=FFFFFF&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="JSON API"/>
+  <img src="https://img.shields.io/badge/Protocol--Oriented%20Design-%20?style=flat-square&logo=swift&logoColor=0D96F6&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="Protocol-Oriented Design"/>
+  <img src="https://img.shields.io/badge/SwiftUI%20Animations-%20?style=flat-square&logo=swift&logoColor=0D96F6&labelColor=2F2F2F&color=2F2F2F&logoWidth=10" height="24" alt="SwiftUI Animations"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=3000&pause=1000000000000000&color=B49DFFFF&vCenter=false&multiline=true&repeat=true&random=false&width=600&height=60&lines=Social+network:)](https://git.io/typing-svg)
